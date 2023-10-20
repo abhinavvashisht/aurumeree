@@ -1,0 +1,18 @@
+*{margin: 0%; padding: 0%; box-sizing: border-box;}
+
+.brand1{
+    background-color: rgb(212, 175, 55);
+}
+.brand2{
+    background-color: rgb(128,32,0);
+}
+.brand3{
+    background-color: rgb(0,0,0);
+}
+
+.shopnow:hover{
+    background-color: rgb(212, 175, 55) ;
+}
+.blog:hover{
+    background-color:rgb(2, 155, 122);
+}
